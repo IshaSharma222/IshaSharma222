@@ -1,4 +1,4 @@
-## Hi 👋, I'm Isha Sharma!  
+## Hi <img src="https://github.com/IshaSharma222/IshaSharma222/blob/main/wave.gif?raw=true" width="40px">, I'm Isha Sharma!  
   
 
 I’m a final-year undergraduate student studying in Indian Institute of Technology Kharagpur.  My interest lies in the field of data science and I love finding solutions to complex problems.  
@@ -23,7 +23,7 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif?cid=790b7611612c4d0edd8e0a124da3537c9696efa18f4eae51&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
 
 
@@ -34,6 +34,7 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 
 ## Languages and Tools  
 <div align="center">  
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -59,16 +60,16 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 
 
 ## 💌 Get in touch  
-<a href="https://linkedin.com/in/www.linkedin.com/in/sharma-isha" target="_blank">
+<a href="https://linkedin.com/in/sharma-isha" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/isha20" target="_blank">
+<a href="https://www.kaggle.com/isha20" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/IshaSharma222" target="_blank">
+<a href="https://github.com/IshaSharma222" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12509608/angelina" target="_blank">
+<a href="https://stackoverflow.com/users/12509608/angelina" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
