@@ -37,13 +37,15 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 ![](https://img.shields.io/badge/-C++-red?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/-C-orange?style=flat&logo=c)
 ![](https://img.shields.io/badge/-MATLAB-ff69b4?style=flat&logo=matlab)
-![](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-MySQL-purple?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-PyTorch-0A1A2F?style=flat&logo=pytorch)
 ![](https://img.shields.io/badge/-TensorFlow-0A1A2F?style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/-keras-blue?style=flat&logo=keras)
-![](https://img.shields.io/badge/-scikitlearn-lighgrey?style=flat&logo=scikitlearn)
-
+![](https://img.shields.io/badge/-scikit%20learn-lighgrey?style=flat&logo=scikitlearn)
+![](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode)
+![](https://img.shields.io/badge/-jupyter-lightgrey?style=flat&logo=jupyter)
+![](https://img.shields.io/badge/-git-black?style=flat&logo=git)
 
 ## 🌐 Language Stats  
 
