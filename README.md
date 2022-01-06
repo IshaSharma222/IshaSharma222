@@ -23,39 +23,34 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif?cid=790b7611612c4d0edd8e0a124da3537c9696efa18f4eae51&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://github.com/IshaSharma222/IshaSharma222/blob/main/image.gif?raw=true" align="center" style="width: 75%" />
 </div>  
 
 
 </td></tr></table>  
 
 <br/>  
+ 
+
+## 🛠️ Languages and Tools  
+![](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
+![](https://img.shields.io/badge/-C++-red?style=flat&logo=c%2B%2B)
+![](https://img.shields.io/badge/-C-orange?style=flat&logo=c)
+![](https://img.shields.io/badge/-MATLAB-ff69b4?style=flat&logo=matlab)
+![](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql)
+![](https://img.shields.io/badge/-PyTorch-0A1A2F?style=flat&logo=pytorch)
+![](https://img.shields.io/badge/-TensorFlow-0A1A2F?style=flat&logo=tensorflow)
+![](https://img.shields.io/badge/-keras-blue?style=flat&logo=keras)
+![](https://img.shields.io/badge/-scikitlearn-lighgrey?style=flat&logo=scikitlearn)
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
-
-<br/>  
-
-
-## Language Stats  
+## 🌐 Language Stats  
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharma222&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaSharma222&hide_border=false&layout=compact" align="left" />
 </div> 
-<br/>  
-
-<br/>  
-
+<br/>
 
 
 ## 💌 Get in touch  
