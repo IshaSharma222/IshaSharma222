@@ -1,7 +1,7 @@
 ## Hi <img src="https://github.com/IshaSharma222/IshaSharma222/blob/main/wave.gif?raw=true" width="40px">, I'm Isha Sharma!  
   
 
-I’m a final-year undergraduate student studying in Indian Institute of Technology Kharagpur.  My interest lies in the field of data science and I love finding solutions to complex problems.  
+I have recently completed my B.Tech. from Indian Institute of Technology Kharagpur.  I love coding and finding solutions to complex problems.  
   
 
 <br/>  
@@ -11,7 +11,7 @@ I’m a final-year undergraduate student studying in Indian Institute of Technol
 - 🔭 I recently made a readme file for my GitHub account.  
   
 
-- 👩‍💻 I’m currently working on my undergraduate project based on meta-learning.  
+- 👩‍💻 I’m constantly upskilling myself.  
   
 
 - 😄 I like to keep learning about new things!  
